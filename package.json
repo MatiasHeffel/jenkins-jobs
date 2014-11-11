@@ -1,5 +1,5 @@
 {
-  "name": "jenkinsJobs",
+  "name": "jenkins-jobs",
   "version": "0.0.1",
   "description": "a jenkins commit stream integration plugin",
   "main": "./lib/index",
