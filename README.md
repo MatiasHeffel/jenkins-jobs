@@ -1,4 +1,4 @@
-jenkinsJobs
+jenkins-jobs
 ===========
 
 CommitStream plugin module
